@@ -37,3 +37,4 @@ The site includes visible business description, contact details, prices, Stripe 
 ## Google Calendar
 
 Calendly is the recommended booking layer. Connect the Calendly account to Google Calendar to automatically check availability, reserve slots, and send confirmations. A fully custom Google Calendar booking flow is possible, but it requires Google OAuth, API routes, token storage, and extra privacy/security review.
+# human-strategy-lab
